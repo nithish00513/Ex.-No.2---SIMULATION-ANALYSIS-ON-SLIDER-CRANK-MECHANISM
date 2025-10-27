@@ -42,8 +42,8 @@
 ## Output
 
 
-### Name: Raga.Susanth
-### Register Number: 24001771
+### Name: nithish kumar.s
+### Register Number: 24900655
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
